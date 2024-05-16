@@ -25,6 +25,9 @@ By adjusting the switches inside the black controller you can change the followi
 * Locate the red or black 8 postion DIP switch
 #### The three areas of the DIP switch
 * There are 8 switches on the DIP switch
-  * Switches 6, 7, and 8 control the color order in case you need to connect a differnt LED string that does not produce the same firefly color.  For example if the firefly colore appears red instead of the yellow you see in the string shipped with the controller.
-  * Switch
+  * Switches 6, 7, and 8 set the color order in case you need to connect a differnt LED string that does not produce the same firefly color.  For example if the firefly colore appears red instead of the yellow you see in the string shipped with the controller.  
+  * Switches 4 and 5 set whether the LED string has 50, 100, 150, or 200 lights in it
+  * Switches 1, 2, and 3 change the alternate color from the warm white to another color.  This color is for when the external toggle switch is switched from fireflies to the alternate color.  This color is set to warm white originally.
+ 
+### When and how to change these switches
 
