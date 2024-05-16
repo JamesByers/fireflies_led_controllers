@@ -1,8 +1,9 @@
 # User information for your Fireflies Standard LED Controller v1 - User manual
 
-Congratulations on your new Byers Built Fireflies LED Controller and light string!
+Congratulations on your new Byers Built Fireflies LED Controller and light string!  You can have simulated fireflies indoors or out whenever you want.
 
-## How to use your Fireflies light string
+This page describe set up and use of your new Fireflies and controller.
+
 ### Familiarize yourself with the external controls
 #### The on/off push button switch
 When the button is pushed in the fireflies will start to turn on.  When the button is pushed again so the button is out the device turns off.
