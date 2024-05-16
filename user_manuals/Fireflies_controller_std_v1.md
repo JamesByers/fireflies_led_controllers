@@ -1,7 +1,6 @@
 # User information for your Fireflies Standard LED Controller v1 - User manual
-Last updated 5/16/2024
 
-## What's is in the box
+Congratulations on your new Byers Built Fireflies LED Controller and light string!
 
 ## How to use your Fireflies light string
 ### Familiarize yourself with the external controls
