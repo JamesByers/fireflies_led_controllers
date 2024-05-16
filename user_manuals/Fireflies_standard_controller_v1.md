@@ -1,4 +1,4 @@
-#User information for your Fireflies Standard LED Controller
+# User information for your Fireflies Standard LED Controller
 Last updated 5/16/2024
 
 ## What's is in the box
