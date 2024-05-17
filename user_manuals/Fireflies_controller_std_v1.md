@@ -31,8 +31,8 @@ By adjusting the switches inside the control box you can change the following:
  * And you can set control box to match a different string with 50, 100, 150 , or 200 LEDs in the string.  Useful if you change to a different LED string
 * Chose a different color than the warm white when the toggle switch is switched.  Choices are a couple of bluer white choices, a mode where the colors cycle through the rainbow, or blue, green, red, or purple.
 #### To change settings open the control box and locate the 8 position DIP switch
-* To adjust the advanced settings you will need to open the box and adjust the setting of 8 position DIP switch. This is safe because the box only recieves 5V power from the power adapter, just like a cell phone does.
-* To access the 8 position DIP switch
+1. To adjust the advanced settings you will need to open the box and adjust the setting of 8 position DIP switch. This is safe because the box only recieves 5V power from the power adapter, just like a cell phone does.
+2. To access the 8 position DIP switch
   1. Unplug the USC-C cord from the control box
   2. Unscrew all four screws holding he lid to the box to lower part of the box.  Open the box noting the location of the white gasket that helps keep water and dust out of the box.
   3. Locate the red or black 8 postion DIP switch
