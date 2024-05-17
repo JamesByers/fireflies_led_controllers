@@ -5,7 +5,7 @@ I hope you enjoy using it as much as I enjoyed designing and building it.
 
 This page describe set up and use of your new Fireflies and controller.
 
-### Connecting it together and plugging it in
+### Connect it together and plug it in
 There are three components plus one optional component. These are power adapter, the black control box, the optional extender, and the LED light string itself.
 #### Connect and test the light string
 1. Screw the extender with the light string attached into the cable extenting out of the control box until snug.
