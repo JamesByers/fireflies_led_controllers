@@ -1,4 +1,4 @@
-# Fireflies Standard LED Controller v1 - User manual
+# Fireflies Standard LED Controller v1 - Quick Start User Manual
 
 Congratulations on your new Byers Built Fireflies LED Controller and light string!  You now can have simultated fireflies indoors or out whenever you want.
 <br>
