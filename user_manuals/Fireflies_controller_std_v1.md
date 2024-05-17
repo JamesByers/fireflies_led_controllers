@@ -1,9 +1,10 @@
 # Fireflies Standard LED Controller v1 - User manual
 
-Congratulations on your new Byers Built Fireflies LED Controller and light string!  You now can have simulated fireflies indoors or out whenever you want.
-I hope you enjoy using it as much as I enjoyed designing and building it.  
+Congratulations on your new Byers Built Fireflies LED Controller and light string!  You now can have simultated fireflies indoors or out whenever you want.
+<br>
+I hope you enjoy using it as much as I enjoyed designing and building it for you.
 
-This page describe set up and use of your new Fireflies and controller.
+This page describes the set up and use of your new Fireflies.
 
 ### Connect it together and turn it on
 There are three components plus one optional component. These are power adapter, the black control box, the optional extender, and the LED light string itself.
