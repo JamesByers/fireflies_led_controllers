@@ -22,10 +22,9 @@ There are three components plus one optional component. These are power adapter,
   * Flip the toggle switch to switch between Firefly color yellow or white
 * Try out the rotary knob
   * Locate the rotating knob.  Turning the knob increases or decreased the brightness of the next fireflies that light up.
+* Now enjoy your fireflies!  
 
-Now enjoy your fireflies!  
-
-#### The additional settings inside the box
+#### The additional advanced settings inside the box
 By adjusting the switches inside the control box you can change the following:
 * Change settings to match a different WS2812B RGB LED type string that may have a different number of LEDs or a different color order. This is useful only if you change the LED string from the one sent to you with the controller.
  * For example with a differnt string if the color of the fireflies is the wrong color (not yellow) then you set the controller for a color order that match the different string
