@@ -14,10 +14,10 @@ There are three components plus one optional component. These are power adapter,
 4. If the fireflies do not start up retry steps 1-3.
 ### Familiarize yourself with the external controls
 * The On/Off button
- * On the side of the box with the USB-C port, Locate the push button on/off switch
- * When the button is pushed in the fireflies will start to turn on.  When the button is pushed again so the button is out the device turns off.
+  * On the side of the box with the USB-C port, Locate the push button on/off switch
+  * When the button is pushed in the fireflies will start to turn on.  When the button is pushed again so the button is out the device turns off.
 * The two position toggle switch
- * Locate the toggle switch on the opposit end of the control box
+  * Locate the toggle switch on the opposit end of the control box
   * Flip the toggle switch to switch between Firefly color yellow or white
 #### The rotary knob
   * Locate the rotating knob.  Turning the knob increases or decreased the brightness of the next fireflies that light up.
