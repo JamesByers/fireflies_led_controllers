@@ -1,15 +1,12 @@
 # Fireflies Standard LED Controller v1 - Quick Start User Manual
 
-Congratulations on your new Byers Built Fireflies LED Controller and light string!  You now can have simultated fireflies indoors or out whenever you want.
+Congratulations on your new Byers-Built Fireflies LED Controller and light string!
 <br>
 I hope you enjoy using it as much as I enjoyed designing and building it for you.
 
 This page describes the set up and use of your new Fireflies.
 
-### Connect it together and turn it on
-There are three components plus one optional component. These are power adapter, the black control box, the optional extender, and the LED light string itself.
-#### Connect and test the light string
-1. Screw the extender with the light string attached into the cable extenting out of the control box until snug.
+#### Connect and test the light strip
 2. Connect the USB-C cord from the power adapter into the USB-C port on the control box
 3. Fireflies should start lighting up and fading out.  If they do not locate the push button on/off switch on the side of the control box wthat has the USB-port, If the button is not pushed in. push it in and the fireflies should start to light up.
 4. If the fireflies do not start up retry steps 1-3.
