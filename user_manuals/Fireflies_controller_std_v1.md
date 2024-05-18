@@ -4,8 +4,6 @@
 
 Congratulations on your new Byers-Built Fireflies LED Controller and light string!
 <br>
-
-This controller and light string are designed to be used indoor or out. 
 I hope you enjoy using it as much as I enjoyed designing and building it for you.
 
 This page describes the set up and use of your new Fireflies.
@@ -34,4 +32,4 @@ By adjusting the switches inside the control box you can change the following:
   * For example with a different string if the color of the fireflies is the wrong color (not yellow) then you set the controller for a color order that match the different string
   * And you can set control box to match a different string with 50, 100, 150 , or 200 LEDs in the string.  Useful if you change to a different LED string
 
-
+To change any of these advanced settings please see the [Advanced Features Guide](./v1_advanced_features) for details.
