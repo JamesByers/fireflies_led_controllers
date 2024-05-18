@@ -13,22 +13,23 @@ This page describes the set up and use of your new Fireflies.
 3. If the fireflies do not start up retry steps 1-3.
 ### Familiarize yourself with the external controls
 * Try out the On/Off button
-  * On the side of the box with the USB-C port, Locate the push button on/off switch
-  * When the button is pushed in the fireflies will start to turn on.  When the button is pushed again so the button is out the device turns off.
-    * Note your Fireflies can by used with a timer by plugging the power adapter into a timer and making sure the control box's On/Off push button switch is set to On (pushed in).
+  * Next to the USB-C port, locate the push button on/off switch
+  * Push the button in and the fireflies will start to turn on.  When the button is pushed again and the button is out the device turns off.
+    * Note your Fireflies can by used with a timer by plugging the power adapter into a timer and making sure the control box's On/Off push button switch is set to the On (pushed in) position.
 * Try out the two position toggle switch
-  * Locate the toggle switch on the opposit end of the control box
-  * Flip the toggle switch to switch between Firefly color yellow or white
+  * Locate the toggle switch on the opposite end of the control box
+  * Flip the toggle switch to change between Firefly color yellow or white
 * Try out the rotary knob
   * Locate the rotating knob.  Turning the knob increases or decreased the brightness of the next fireflies that light up.
 * Now enjoy your fireflies!  
 
 #### The additional advanced settings inside the box
 By adjusting the switches inside the control box you can change the following:
-* Change settings to match a different WS2812B RGB LED type string that may have a different number of LEDs or a different color order. This is useful only if you change the LED string from the one sent to you with the controller.
- * For example with a differnt string if the color of the fireflies is the wrong color (not yellow) then you set the controller for a color order that match the different string
- * And you can set control box to match a different string with 50, 100, 150 , or 200 LEDs in the string.  Useful if you change to a different LED string
 * Chose a different color than the warm white when the toggle switch is switched.  Choices are a couple of bluer white choices, a mode where the colors cycle through the rainbow, or blue, green, red, or purple.
+* Change settings to match another LED string
+ * This controller is designed to match most, if not all WS2812B type RGB LED type strings or light strips.  To do so requires setting a few switches inside the control box.
+  * For example with a different string if the color of the fireflies is the wrong color (not yellow) then you set the controller for a color order that match the different string
+  * And you can set control box to match a different string with 50, 100, 150 , or 200 LEDs in the string.  Useful if you change to a different LED string
 #### To change settings open the control box and locate the 8 position DIP switch
 1. To adjust the advanced settings you will need to open the box and adjust the setting of 8 position DIP switch. This is safe because the box only recieves 5V power from the power adapter, just like a cell phone does.
 2. To access the 8 position DIP switch
