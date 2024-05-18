@@ -25,7 +25,7 @@ This page describes the set up and use of your new Fireflies.
 * Now enjoy your fireflies!
 
 <p align="center">
-<img src=""../assets/Firefly_std_board_v1_top.png" width="200" />
+<img src="../assets/Firefly_std_board_v1_top.png" width="200" />
 </p>
 <img src="../assets/Firefly_std_board_v1_top.png" width="200">
 
