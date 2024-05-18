@@ -1,6 +1,6 @@
-# Quick Start Guide
+# Quick Start Guide   <img src=../assets/Firefly_basic_logo.png" width="24">
 
-## Fireflies Standard LED Controller v1 <img src="https://github.com/favicon.ico" width="24">  
+## Fireflies Standard LED Controller v1  
 
 Congratulations on your new Byers-Built Fireflies LED Controller and light string!
 <br>
