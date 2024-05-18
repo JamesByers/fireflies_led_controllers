@@ -4,7 +4,7 @@
 1. To adjust the advanced settings you will need to open the box and adjust the setting of 8 position DIP switch. This is safe because the box only recieves 5V power from the power adapter, just like a cell phone does.
 2. To access the 8 position DIP switch
   1. Unplug the USC-C cord from the control box
-  2. Unscrew all four screws holding he lid to the box to lower part of the box.  Open the box noting the location of the white gasket that helps keep water and dust out of the box.
+  2. Unscrew all four screws holding the lid to the box to lower part of the box.  Open the box noting the location of the white gasket that helps keep water and dust out of the box.
   3. Locate the red or black 8 position DIP switch
 
 Note: Do not change switches 4 thru 8 unless you are attaching a LED string different from the one provided with your Fireflies LED Controller.
@@ -18,5 +18,9 @@ Note: Do not change switches 4 thru 8 unless you are attaching a LED string diff
  
 ### How to change the switches inside the control box.
 [Add]
-#### Changing the alternative color from the toggle switch
+#### Changing the alternative color for the toggle switch
+[Add]
+#### Setting the LED String Length
+[Add]
+#### Setting the color order
 [Add]
