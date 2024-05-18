@@ -30,7 +30,8 @@ This page describes the set up and use of your new Fireflies.
 <p align="center">
 <img src="../assets/Firefly_std_board_v1_top.png" width="400">
 </p>
-By adjusting the switches inside the control box you can change the following:
+
+By adjusting switches inside the control box you can change the following:
 * Chose a different color than the warm white when the toggle switch is switched.  Choices are a couple of bluer white choices, a mode where the colors cycle through the rainbow, or blue, green, red, or purple.
 * Change settings to match another LED string
  * This controller is designed to match most, if not all WS2812B type RGB LED type strings or light strips.  To do so requires setting a few switches inside the control box.
