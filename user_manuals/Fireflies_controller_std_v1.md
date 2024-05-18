@@ -8,9 +8,9 @@ I hope you enjoy using it as much as I enjoyed designing and building it for you
 This page describes the set up and use of your new Fireflies.
 
 #### Connect and test the light strip
-2. Connect the USB-C cord from the power adapter into the USB-C port on the control box
-3. Fireflies should start lighting up and fading out.  If they do not locate the push button on/off switch on the side of the control box wthat has the USB-port, If the button is not pushed in. push it in and the fireflies should start to light up.
-4. If the fireflies do not start up retry steps 1-3.
+1. Connect the USB-C cord from the power adapter into the USB-C port on the control box
+2. Fireflies should start lighting up and fading out.  If they do not locate the push button on/off switch on the side of the control box wthat has the USB-port, If the button is not pushed in. push it in and the fireflies should start to light up.
+3. If the fireflies do not start up retry steps 1-3.
 ### Familiarize yourself with the external controls
 * Try out the On/Off button
   * On the side of the box with the USB-C port, Locate the push button on/off switch
