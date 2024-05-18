@@ -26,7 +26,7 @@ This page describes the set up and use of your new Fireflies.
 
 ### Additional advanced settings inside the box
 <p align="center">
-<img src="../assets/Firefly_std_board_v1_top.png" width="400" />
+<img src="../assets/Firefly_std_board_v1_top.png" width="400">
 </p>
 By adjusting the switches inside the control box you can change the following:
 * Chose a different color than the warm white when the toggle switch is switched.  Choices are a couple of bluer white choices, a mode where the colors cycle through the rainbow, or blue, green, red, or purple.
