@@ -23,7 +23,8 @@ This page describes the set up and use of your new Fireflies.
 * Try out the rotary knob
   * Locate the rotating knob.  Turning the knob increases or decreased the brightness of the next fireflies that light up.
 * Now enjoy your fireflies!
-
+<br>
+<br>
 ### Additional advanced settings
 <p align="center">
 <img src="../assets/Firefly_std_board_v1_top.png" width="400">
