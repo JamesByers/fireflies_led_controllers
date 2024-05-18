@@ -1,4 +1,4 @@
-# Quick Start Guide   <img src=../assets/Firefly_basic_logo.png" width="24">
+# Quick Start Guide   <img src="../assets/Firefly_basic_logo.png" width="24">
 
 ## Fireflies Standard LED Controller v1  
 
