@@ -8,7 +8,7 @@ I hope you enjoy using it as much as I enjoyed designing and building it for you
 
 This page describes the set up and use of your new Fireflies.
 
-#### Connect and test the light strip
+### Connect and test the light strip
 1. Connect the USB-C cord from the power adapter into the USB-C port on the control box
 2. Fireflies should start lighting up and fading out.  If they do not locate the push button on/off switch on the side of the control box wthat has the USB-port, If the button is not pushed in. push it in and the fireflies should start to light up.
 3. If the fireflies do not start up check that the power adapter is properly plugged in to a wall socket and that the USB-C cable is properly plugged in.
@@ -24,7 +24,7 @@ This page describes the set up and use of your new Fireflies.
   * Locate the rotating knob.  Turning the knob increases or decreased the brightness of the next fireflies that light up.
 * Now enjoy your fireflies!  
 
-#### Additional advanced settings inside the box
+### Additional advanced settings inside the box
 By adjusting the switches inside the control box you can change the following:
 * Chose a different color than the warm white when the toggle switch is switched.  Choices are a couple of bluer white choices, a mode where the colors cycle through the rainbow, or blue, green, red, or purple.
 * Change settings to match another LED string
