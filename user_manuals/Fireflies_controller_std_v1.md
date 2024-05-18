@@ -1,4 +1,5 @@
-# Fireflies Standard LED Controller v1 - Quick Start User Manual
+# Quick Start User Manual
+## Fireflies Standard LED Controller v1
 
 Congratulations on your new Byers-Built Fireflies LED Controller and light string!
 <br>
