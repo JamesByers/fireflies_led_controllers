@@ -38,7 +38,7 @@ By adjusting the switches inside the control box you can change the following:
 2. To access the 8 position DIP switch
   1. Unplug the USC-C cord from the control box
   2. Unscrew all four screws holding he lid to the box to lower part of the box.  Open the box noting the location of the white gasket that helps keep water and dust out of the box.
-  3. Locate the red or black 8 postion DIP switch
+  3. Locate the red or black 8 position DIP switch
 #### The three areas of the DIP switch
 * There are 8 individually numbered switches on the DIP switch
   * Switches 6, 7, and 8 set the color order in case you need to connect a differnt LED string that does not produce the same firefly color.  For example if the firefly colore appears red instead of the yellow you see in the string shipped with the controller.  
