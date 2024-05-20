@@ -35,7 +35,7 @@ By adjusting switches inside the control box you can change the following:
 * Chose a different color than the warm white when the toggle switch is switched.  Choices are a couple of bluer white choices, a mode where the colors cycle through the rainbow, or blue, green, red, or purple.
 * Change settings to match another LED string
   * This controller is designed to match most, if not all WS2812B type RGB LED type strings or light strips.  To do so requires setting a few switches inside the control box.
-    * Set the color order.  You would do this if yoou attached a different LED string and the colors are incorrect. 
-    * And you can set control box to match a different string with 50, 100, 150 , or 200 LEDs in the string.
+    * Set the color order.  You would do this if you attached a different LED string and the colors are incorrect. 
+    * Set to match a different number of LEDs in the string.  And you can set string lengths for 50, 100, 150 , or 200 LEDs in the string.
 
 To change any of these advanced settings please see the [Advanced Features Guide](./v1_advanced_features) for details.
