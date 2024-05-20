@@ -26,7 +26,7 @@ This guide describes the set up and use of your new Fireflies.
 <br>
 <br>
 
-### Additional advanced settings
+### Advanced settings
 <p align="center">
 <img src="../assets/Firefly_std_board_v1_top.png" width="400">
 </p>
