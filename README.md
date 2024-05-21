@@ -1,4 +1,4 @@
-# <img src="/assets/Firefly_basic_logo.png" width="64">  Fireflies LED Controller
+# <img src="/assets/Firefly_basic_logo.png" width="64">  Fireflies LED Controllers
 This repository contains user information about the Fireflies LED Controllers
 
 <img src="/assets/Fireflies_std_vi_open_controller.jpg" width="500">
