@@ -38,4 +38,4 @@ By adjusting switches inside the control box you can change the following:
     * Set the color order.  You would do this if you attached a different LED string and the colors are incorrect. 
     * Set to match a different number of LEDs in the string.  And you can set string lengths for 50, 100, 150 , or 200 LEDs in the string.
 
-To change any of these advanced settings please see the [Advanced Features Guide](./v1_advanced_features) for details.
+To change any of these advanced settings please see the [Advanced Features Guide](./v1_advanced_features.md) for details.
