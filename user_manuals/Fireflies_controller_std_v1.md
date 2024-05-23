@@ -5,8 +5,9 @@
 Congratulations on your new Byers-Built Fireflies LED Controller and light string!
 <br>
 I hope you enjoy using it as much as I enjoyed designing and building it for you.
-
 This guide describes the set up and use of your new Fireflies.
+
+<img src="/assets/Fireflies_std_vi_open_controller.jpg" width="500">
 
 ### Connect and test the light strip
 1. Connect the USB-C cord from the power adapter into the USB-C port on the control box
