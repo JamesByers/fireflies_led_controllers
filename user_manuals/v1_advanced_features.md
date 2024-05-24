@@ -1,7 +1,7 @@
 # <img src="../assets/Firefly_basic_logo.png" width="64">  Advanced Features Guide
 ## FireFlies LED Controller Std V1
 #### To change settings open the control box and locate the 8 position DIP switch
-1. To adjust the advanced settings you will need to open the box and adjust the setting of 8 position DIP switch. This is safe because the box only recieves 5V power from the power adapter, just like a cell phone does.
+1. To adjust the advanced settings you will need to open the box and adjust the setting of 8 position DIP switch. This is safe because the box only recieves 5V power from the power adapter, just like a mobile phone does.
 2. To access the 8 position DIP switch
   1. Unplug the USC-C cord from the control box
   2. Unscrew all four screws holding the lid to the box to lower part of the box.  Open the box noting the location of the white gasket that helps keep water and dust out of the box.
