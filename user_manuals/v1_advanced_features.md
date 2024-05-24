@@ -1,5 +1,8 @@
 # <img src="../assets/Firefly_basic_logo.png" width="64">  Advanced Features Guide
 ## FireFlies LED Controller Std V1
+<p align="center">
+<img src="../assets/Firefly_std_board_v1_top.png" width="400">
+</p>
 #### To change settings open the control box and locate the 8 position DIP switch
 1. To adjust the advanced settings you will need to open the box and adjust the setting of 8 position DIP switch. This is safe because the box only recieves 5V power from the power adapter, just like a mobile phone does.
 2. To access the 8 position DIP switch
