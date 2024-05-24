@@ -4,7 +4,7 @@
 
 Congratulations on your new Byers-Built Fireflies LED Controller and light string!
 <br> <br>
-I hope you enjoy using it as much as I enjoyed designing and building it for you. <br>
+I hope you enjoy using it as much as I enjoyed designing and building it for you. <br> <br>
 This guide describes the set up and use of your new Fireflies.
 
 <img src="/assets/Fireflies_std_vi_open_controller.jpg" width="500">
