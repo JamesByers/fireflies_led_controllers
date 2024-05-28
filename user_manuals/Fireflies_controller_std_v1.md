@@ -29,7 +29,7 @@ This guide describes the set up and use of your new Fireflies.
 
 ### Advanced settings
 <p align="center">
-<img src="../assets/Firefly_std_board_v1_top.png" width="400">
+<img src="../assets/Fireflies_std_v1_0_2.png" width="400">
 </p>
 
 By adjusting switches inside the control box you can change the following:
