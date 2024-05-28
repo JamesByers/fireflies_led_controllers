@@ -7,4 +7,4 @@ This repository contains user information for the Fireflies LED Controllers
 [Quick Start Guide - Fireflies LED controller V1](/user_manuals/Fireflies_controller_std_v1.md)
 <br>
 
-<img src="/assets/Fireflies_std_vi_open_controller.jpg" width="400">
+<img src="/assets/Fireflies_std_vi_open_controller.jpg" width="400">(/user_manuals/Fireflies_controller_std_v1.md)
