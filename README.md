@@ -3,6 +3,8 @@ This repository contains user information about the Fireflies LED Controllers
 
 <img src="assets/Fireflies_basic_logo_w_text.png" width="500">
 <br>
+
 [Quick Start Guide - Fireflies LED controller V1](/user_manuals/Fireflies_controller_std_v1.md)
 <br>
+
 <img src="/assets/Fireflies_std_vi_open_controller.jpg" width="500">
