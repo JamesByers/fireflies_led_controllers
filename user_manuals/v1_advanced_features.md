@@ -27,3 +27,5 @@ Note: Do not change switches 4 thru 8 unless you are attaching a LED string diff
 [Add]
 #### Setting the color order
 [Add]
+
+[Link to the Quick Start Guide](./Fireflies_controller_std_v1.md)
