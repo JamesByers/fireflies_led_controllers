@@ -5,10 +5,10 @@
 </p>
 
 #### The Advanced settings are set using the red DIP switch inside the controller.
-*There are three areas of the DIP switch, to set three different things.*
-* There are 8 individually numbered switches on the DIP switch
-  * Switches 1, 2, and 3 change the alternate color from the warm white to another color.  This color will be used when the toggle switch is switched from fireflies to the alternate color.  You can also choose an option to rotate through the colors of the raibow.
-  * Switches 4 and 5 set whether the LED string has 50, 100, 150, or 200 lights in it
+*There are three groupings of the DIP switch, to set three different things.*
+* There are 8 individually numbered switches on the DIP switch.  There are three groups of switches, to set three different things.
+  * Switches 1, 2, and 3 change the alternate color from the warm white to another color.  This color will be used when the toggle switch is switched from fireflies to the alternate color.  You can also choose an option to rotate through the colors of the rainbow.
+  * Switches 4 and 5 set whether the LED string has 50, 100, 150, or 200 LEDs in it
   * Switches 6, 7, and 8 set the color order in case you need to connect a different LED string that has a different color order.  You will know because the firefly color will be obviously different such as a blue or a red.
 
 #### To change settings open the control box and locate the 8 position DIP switch
