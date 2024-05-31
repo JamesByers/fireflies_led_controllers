@@ -10,9 +10,10 @@ This guide describes the set up and use of your new Fireflies.
 <img src="/assets/Fireflies_std_vi_open_controller.jpg" width="500">
 
 ### Connect and test the light string
-1. Connect the USB-C cord from the power adapter into the USB-C port on the control box
-2. The Fireflies should start lighting up and fading out.  If they do not light up, locate the on/off push button switch on the end of the control box. If the button is not pushed in, push it in and the fireflies should start to light up.
-3. If the fireflies do not start up check that the power adapter is properly plugged in to a wall socket and that the USB-C cable is properly plugged in.
+1. Plug the USB-C charger into a 120V wall plug.
+2. Connect the USB-C cord from the power adapter into the USB-C port on the control box
+3. The Fireflies should start lighting up and fading out.  If they do not light up, locate the on/off push button switch on the end of the control box. If the button is not pushed in, push it in and the fireflies should start to light up.
+4. If the fireflies do not start up check that the power adapter is properly plugged in to a wall socket and that the USB-C cable is properly plugged in.
 ### Familiarize yourself with the external controls
 * Try out the On/Off button
   * Next to the USB-C port on the end of the control box, locate the push button on/off switch.
