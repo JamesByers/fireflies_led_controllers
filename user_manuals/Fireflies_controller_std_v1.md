@@ -24,7 +24,9 @@ This guide describes the set up and use of your new Fireflies.
   * Flip the toggle switch to change between Firefly color yellow or white
 * Try out the rotary knob
   * Locate the rotating knob.  Turning the knob increases or decreased the brightness of the next fireflies that light up.
-* Now enjoy your fireflies!
+* For the most realistic firefies set the switch to yellow and turn the brightness level all the way down.
+* Adjust the brightness level to your liking
+* Spread out the LED string and enjoy your fireflies!
 <br>
 <br>
 
