@@ -41,6 +41,6 @@ By adjusting switches inside the control box you can change the following:
   * This controller is designed to match most, if not all WS2812B type RGB LED type strings or light strips.  To do so may require setting a few switches inside the control box.
     * Set the color order.  You would do this if you attached a different LED string and the colors are incorrect. 
     * Set to match a different number of LEDs in the string.  And you can set string lengths for 50, 100, 150 , or 200 LEDs in the string.
-      * You can also use this to limit the number of LEDs lit in a longer string.
+      * You can also use this to limit the number of LEDs lit in a longer string.  For example, if you have a 100 LED string or longer you can set it to 50.  Only the first 50 LEDs will be lit.  This can be useful if you want to cover a smaller area.
 
 To change any of these advanced settings please see the [Advanced Features Guide](./v1_advanced_features.md) for details.
