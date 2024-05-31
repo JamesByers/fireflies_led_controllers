@@ -1,5 +1,5 @@
 # <img src="../assets/Firefly_basic_logo.png" width="64">  Advanced Features Guide
-## FireFlies LED Controller Std V1
+## Fireflies LED Controller Std V1
 <p align="center">
 <img src="../assets/Fireflies_std_v1_0_2.png" width="400">
 </p>
