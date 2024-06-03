@@ -52,7 +52,7 @@ Set switches numbered 6, 7, and 8 to match the controller color order to the col
 | BGR | 0 | 1 | 1 |
 | GRB | 1 | 0 | 0 |
 | GBR | 1 | 0 | 1 |
-| Undefined | 1 | 1 | 0 |  //Not a recommended setting.  Unpredictable.
-| Undefined | 1 | 1 | 1 |  //Not a recommended setting.  Unpredictable.
+| BRG | 1 | 1 | 0 |
+| BRG | 1 | 1 | 1 |
 
 [Link to the Quick Start Guide](./Fireflies_controller_std_v1.md)
