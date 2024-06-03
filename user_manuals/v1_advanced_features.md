@@ -23,7 +23,7 @@ Note: Do not change switches 4 thru 8 unless you are attaching a LED string diff
 #### Changing the alternative color for the toggle switch
 Set switches numbered 1, 2, and 3 for the affect you want.  the switch setting are shown in the table belpw.
 | Affect | Sw 1  |  Sw 2 | Sw 3 |
-| ----- | ----- | ---- |----- |
+| :---: | :---: | :---: | :---: |
 | Warm white | 0 | 0 | 0 |
 | Cooler white | 0 | 0 | 1 |
 | Blue White | 0 | 1 | 0 |
