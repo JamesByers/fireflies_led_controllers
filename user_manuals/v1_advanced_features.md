@@ -4,7 +4,7 @@
 <img src="../assets/Fireflies_std_v1_0_2.png" width="400">
 </p>
 
-#### The Advanced settings are set using the red DIP switch inside the controller.
+#### The Advanced settings are set using the red DIP switch on the circuit board inside the controller.
 There are 8 individually numbered switches on the DIP switch.  There are three groups of switches, to set three different things.
   * Switches 1, 2, and 3 change the alternate color from the warm white to another color.  This color will be used when the toggle switch is switched from fireflies to the alternate color.  You can also choose an option to rotate through the colors of the rainbow.
   * Switches 4 and 5 set whether the LED string has 50, 100, 150, or 200 LEDs in it
