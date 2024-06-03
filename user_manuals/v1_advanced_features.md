@@ -21,9 +21,9 @@ Note: Do not change switches 4 thru 8 unless you are attaching a LED string diff
  
 ### Setting the switches inside the control box
 #### Changing the alternative color for the toggle switch
-Set switches numbered 1, 2, and 3 for the affect you want.  the switch setting are shown in the table belpw.
+Set switches numbered 1, 2, and 3 for the affect you want.  The possible switch settings are shown in the table below.
 | Affect | Sw 1  |  Sw 2 | Sw 3 |
-| :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | Warm white | 0 | 0 | 0 |
 | Cooler white | 0 | 0 | 1 |
 | Blue White | 0 | 1 | 0 |
@@ -31,10 +31,28 @@ Set switches numbered 1, 2, and 3 for the affect you want.  the switch setting a
 | Blue | 1 | 0 | 0 |
 | Green | 1 | 0 | 1 |
 | Red | 1 | 1 | 0 |
+| Lavender | 1 | 1 | 0 |
 
-#### Setting the LED String Length
-[Add]
+#### Setting the LED String Length (number of LEDs)
+Set switches numbered 4 and 5 to ,control the number of LED to light.  If the number of LEDs chosen is less than the number of LEDs in the string, the first LEDs in the string will be lit.
+| # of LEDs | Sw 4  |  Sw 5 | 
+| :--- | :---: | :---: |
+| 50 | 0 | 0 |
+| 100 | 0 | 1 |
+| 150 | 1 | 0 |
+| 200 | 1 | 1 |
+
 #### Setting the color order
-[Add]
+Set switches numbered 6, 7, and 8 to match the controller color order to the color order of a different LED string
+| Affect | Sw 1  |  Sw 2 | Sw 3 |
+| :--- | :---: | :---: | :---: |
+| RGB | 0 | 0 | 0 |
+| RBG | 0 | 0 | 1 |
+| BRG | 0 | 1 | 0 |
+| BGR | 0 | 1 | 1 |
+| GRB | 1 | 0 | 0 |
+| GBR | 1 | 0 | 1 |
+| Undefined | 1 | 1 | 0 |  //Not a recommended setting.  Unpredictable.
+| Undefined | 1 | 1 | 1 |  //Not a recommended setting.  Unpredictable.
 
 [Link to the Quick Start Guide](./Fireflies_controller_std_v1.md)
