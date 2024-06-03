@@ -25,41 +25,43 @@ Set switches numbered 1, 2, and 3 for the affect you want.  The possible switch 
 Changes in these switches will take affect immediately on the next firefly lit.
 | Affect | Sw 1  |  Sw 2 | Sw 3 |
 | :--- | :---: | :---: | :---: |
-| Warm white | 0 | 0 | 0 |
-| Cooler white | 0 | 0 | 1 |
-| Blue White | 0 | 1 | 0 |
-| Rotate through all colors | 0 | 1 | 1 |
-| Blue | 1 | 0 | 0 |
-| Green | 1 | 0 | 1 |
-| Red | 1 | 1 | 0 |
-| Lavender | 1 | 1 | 0 |
+| Warm white | Off | Off | Off |
+| Cooler white | Off | Off | On |
+| Blue White | Off | On | Off |
+| Rotate through all colors | Off | On | On |
+| Blue | On | Off | Off |
+| Green | On | Off | On |
+| Red | On | On | Off |
+| Lavender | On | On | On |
 
 #### Setting the LED String Length (number of LEDs)
 Set switches numbered 4 and 5 to control the number of LED to light.  If the number of LEDs chosen is less than the number of LEDs in the string, the first LEDs in the string will be lit.
 Changes in these switches will only take affect when the power is cycled by either:
   1. Use the on/of push button switch to turn the power to the controller box off and then on again
-  2. *Or* pushing and releasing the Reset button on the RP2040 Zero microcontroller 
+  2. *Or* pushing and releasing the Reset button on the RP2040 Zero microcontroller
+  3. 
 | # of LEDs | Sw 4  |  Sw 5 | 
 | :--- | :---: | :---: |
-| 50 | 0 | 0 |
-| 100 | 0 | 1 |
-| 150 | 1 | 0 |
-| 200 | 1 | 1 |
+| 50 | Off | Off |
+| 100 | Off | On |
+| 150 | On | Off |
+| 200 | On | On |
 
 #### Setting the color order
 If needed, set switches numbered 6, 7, and 8 to match the controller color order to the color order of a different LED string
 Changes in these switches will only take affect when the power is cycled by either:
   1. Use the on/of push button switch to turn the power to the controller box off and then on again
   2. *Or* pushing and releasing the Reset button on the RP2040 Zero microcontroller
+  3. 
 | Affect | Sw 1  |  Sw 2 | Sw 3 |
 | :--- | :---: | :---: | :---: |
-| RGB | 0 | 0 | 0 |
-| RBG | 0 | 0 | 1 |
-| BRG | 0 | 1 | 0 |
-| BGR | 0 | 1 | 1 |
-| GRB | 1 | 0 | 0 |
-| GBR | 1 | 0 | 1 |
-| BRG | 1 | 1 | 0 |
-| BRG | 1 | 1 | 1 |
+| RGB | Off | Off | Off |
+| RBG | Off | Off | On |
+| BRG | Off | On | Off |
+| BGR | Off | On | On |
+| GRB | On | Off | Off |
+| GBR | On | Off | On |
+| BRG | On | On | Off |
+| BRG | On | On | On |
 
 [Link to the Quick Start Guide](./Fireflies_controller_std_v1.md)
