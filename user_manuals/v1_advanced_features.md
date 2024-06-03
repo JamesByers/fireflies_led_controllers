@@ -34,7 +34,7 @@ Set switches numbered 1, 2, and 3 for the affect you want.  The possible switch 
 | Lavender | 1 | 1 | 0 |
 
 #### Setting the LED String Length (number of LEDs)
-Set switches numbered 4 and 5 to ,control the number of LED to light.  If the number of LEDs chosen is less than the number of LEDs in the string, the first LEDs in the string will be lit.
+Set switches numbered 4 and 5 to control the number of LED to light.  If the number of LEDs chosen is less than the number of LEDs in the string, the first LEDs in the string will be lit.
 | # of LEDs | Sw 4  |  Sw 5 | 
 | :--- | :---: | :---: |
 | 50 | 0 | 0 |
@@ -43,7 +43,7 @@ Set switches numbered 4 and 5 to ,control the number of LED to light.  If the nu
 | 200 | 1 | 1 |
 
 #### Setting the color order
-Set switches numbered 6, 7, and 8 to match the controller color order to the color order of a different LED string
+If needed, set switches numbered 6, 7, and 8 to match the controller color order to the color order of a different LED string
 | Affect | Sw 1  |  Sw 2 | Sw 3 |
 | :--- | :---: | :---: | :---: |
 | RGB | 0 | 0 | 0 |
