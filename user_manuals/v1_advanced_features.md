@@ -20,9 +20,18 @@ There are 8 individually numbered switches on the DIP switch.  There are three g
 Note: Do not change switches 4 thru 8 unless you are attaching a LED string different from the one provided with your Fireflies LED Controller.
  
 ### Setting the switches inside the control box
-[Add]
 #### Changing the alternative color for the toggle switch
-[Add]
+Set switches numbered 1, 2, and 3 for the affect you want.  the switch setting are shown in the table belpw.
+| Affect | Sw 1  |  Sw 2 | Sw 3 |
+| ----- | ----- | ---- |----- |
+| Warm white | 0 | 0 | 0 |
+| Cooler white | 0 | 0 | 1 |
+| Blue White | 0 | 1 | 0 |
+| Rotate through all colors | 0 | 1 | 1 |
+| Blue | 1 | 0 | 0 |
+| Green | 1 | 0 | 1 |
+| Red | 1 | 1 | 0 |
+
 #### Setting the LED String Length
 [Add]
 #### Setting the color order
