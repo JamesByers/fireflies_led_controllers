@@ -2,7 +2,7 @@
 
 ## Fireflies Standard LED Controller v1  
 
-Congratulations on your new Byers-Built Fireflies LED Controller and light string!
+Congratulations on your new Byers Built Fireflies LED Controller and light string!
 <br> <br>
 I hope you enjoy using it as much as I enjoyed designing and building it for you. <br> <br>
 This guide describes the set up and use of your new Fireflies.
@@ -43,4 +43,4 @@ By adjusting switches inside the control box you can change the following:
     * Set to match a different number of LEDs in the string.  And you can set string lengths for 50, 100, 150 , or 200 LEDs in the string.
       * You can also use this to limit the number of LEDs lit in a longer string.  For example, if you have a 100 LED string or longer you can set it to 50.  Only the first 50 LEDs will be lit.  This can be useful if you want to cover a smaller area than you would with the full longer string.
 
-To change any of these advanced settings please see the [Advanced Features Guide](./v1_advanced_features.md) for details.
+To change any of these advanced settings please see the [Advanced Features Guide](./v1_advanced_features.md).
