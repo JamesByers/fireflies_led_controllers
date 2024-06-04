@@ -1,5 +1,5 @@
 # <img src="/assets/Firefly_basic_logo.png" width="64">  Byers Built Fireflies LED Controllers
-This repository contains user information for the Fireflies LED Controller
+This repository contains user information for the Fireflies LED Controllers
 
 <img src="assets/Fireflies_basic_logo_w_text.png" width="500">
 <br>
