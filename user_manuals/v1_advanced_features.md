@@ -36,8 +36,8 @@ Changes in these switches will take affect immediately on the next firefly lit.
 
 #### Setting the LED String Length (number of LEDs)
 Set switches numbered 4 and 5 to control the number of LED to light.  If the number of LEDs chosen is less than the number of LEDs in the string, the first LEDs in the string will be lit.
-Changes in these switches will only take affect when the power is cycled by either:
-  1. Use the on/of push button switch to turn the power to the controller box off and then on again
+Changes to these switches will only take affect when the power is cycled by either:
+  1. Using the on/of push button switch to turn the power to the controller box off and then on again
   2. *Or* pushing and releasing the Reset button on the RP2040 Zero microcontroller
      
 | # of LEDs | Sw 4  |  Sw 5 | 
