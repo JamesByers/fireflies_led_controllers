@@ -1,4 +1,4 @@
-# <img src="../assets/Fireflies_open_box_w_logo.jpg" width="64">  Quick Start Guide   
+# <img src="../assets/Firefly_basic_logo.png" width="64">  Quick Start Guide   
 
 ## Fireflies Standard LED Controller v1  
 
@@ -7,7 +7,7 @@ Congratulations on your new Byers Built Fireflies LED Controller and light strin
 I hope you enjoy using it as much as I enjoyed designing and building it for you. <br> <br>
 This guide describes the set up and use of your new Fireflies.
 
-<img src="/assets/Fireflies_v1_open_w_logo.png" width="500">
+<img src="/assets/Fireflies_open_box_w_logo.png" width="500">
 
 ### Connect and test the light string
 1. Plug the USB-C charger into a 120V wall outlet.
