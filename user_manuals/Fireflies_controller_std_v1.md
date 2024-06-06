@@ -3,7 +3,7 @@
 ## Fireflies Standard LED Controller v1  
 
 Congratulations on your new Byers Built Fireflies LED Controller and light string!
-<br> <br>
+<br>
 I hope you enjoy using it as much as I enjoyed designing and building it for you. <br> <br>
 This guide describes the set up and use of your new Fireflies.
 
