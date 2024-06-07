@@ -1,4 +1,4 @@
-# <img src="../assets/Firefly_basic_logo.png" width="64">  Quick Start Guide   
+but# <img src="../assets/Firefly_basic_logo.png" width="64">  Quick Start Guide   
 
 ## Fireflies Standard LED Controller v1  
 
@@ -32,7 +32,7 @@ This guide describes the set up and use of your new Fireflies.
 * When the fireflies are set to white instead of yellow, and you want them dim, consider setting them not all the way dim. If the white is fully dimmed there is a red hue right before the firefly goes out. This can be avoided by not fully dimming the warm white.
 * The QR code on the bottom of the controller box, and the one inside the box, point to this Quick Start Guide.
 
-  * <img src="/assets/img_0201.jpg" width="400">   
+  * <img src="/assets/img_0201.jpg" width="500">   
 <br>
 <br>
 
