@@ -31,6 +31,7 @@ This guide describes the set up and use of your new Fireflies.
 * For the most realistic firefies set the switch to yellow and turn the brightness level all the way down.
 * When the fireflies are set to warm white instead of yellow, and you want them dim, consider setting them not all the way dim. If fully dimmed on warm white there is a red hue right before the firefly goes out. This can be avoided by not fully dimming the warm white.
 * The QR code on the bottom of the controller box, and the one inside the box, point to this Quick Start Guide.
+
   * <img src="/assets/img_0201.jpg" width="400">   
 <br>
 <br>
