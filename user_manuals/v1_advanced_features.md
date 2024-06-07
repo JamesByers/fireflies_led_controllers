@@ -16,7 +16,7 @@ There are 8 individually numbered switches on the DIP switch.  There are three g
 2. To access the 8 position DIP switch
     * Unplug the USC-C cord from the control box
     * Unscrew all four screws holding the lid to the box.  Open the box, noting the location of the white gasket in the that helps keep water and dust out of the box.
-  4. Locate the red or black 8 position DIP switch
+    * Locate the red or black 8 position DIP switch
 
 Note: Do not change switches 4 thru 8 unless you are attaching a LED string different from the one provided with your Fireflies LED Controller.
 
