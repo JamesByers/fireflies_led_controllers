@@ -27,9 +27,9 @@ This guide describes the set up and use of your new Fireflies.
   * Adjust the brightness⁷ level to your liking
 * Spread out the LED string and enjoy your fireflies!
 ### Tips
-* While the controller is designed and built to be water resistant, the socket where the USB-C cord plugs into the controller is somewhat exposed.  If used outside it is assumed that the controller box is under an overhang near the wall socket and therefore out of direct rainfall.  If not it is best to put something over the controller (board etc.) or use some Gorilla Tape or other waterproof tape to protect the USB-C cable connection from rainfall.
+* While the controller is designed and built to be water resistant, the socket where the USB-C cord plugs into the controller is exposed.  If used outside, it is assumed that the controller box is under an overhang near the wall socket and therefore out of direct rainfall.  If not, it is best to put something over the controller (board, etc.) or use some Gorilla Tape or other waterproof tape to protect the USB-C cable connection from rainfall.
 * For the most realistic firefies set the switch to yellow and turn the brightness level all the way down.
-* When the fireflies are set to warm white instead of yellow, and you want them dim, consider setting them not all the way dim. If fully dimmed on warm white there is a red hue right before the firefly goes out. This can be avoided by not fully dimming the warm white.
+* When the fireflies are set to white instead of yellow, and you want them dim, consider setting them not all the way dim. If the white is fully dimmed there is a red hue right before the firefly goes out. This can be avoided by not fully dimming the warm white.
 * The QR code on the bottom of the controller box, and the one inside the box, point to this Quick Start Guide.
 
   * <img src="/assets/img_0201.jpg" width="400">   
