@@ -18,9 +18,9 @@ There are 8 individually numbered switches on the DIP switch.  There are three g
     * Unscrew all four screws holding the lid to the box.  Open the box, noting the location of the white gasket in the that helps keep water and dust out of the box.
     * Locate the red or black 8 position DIP switch
 
-Note: Do not change switches 4 thru 8 unless you are attaching a LED string different from the one provided with your Fireflies LED Controller.
-
 <img src="../assets/Fireflies_std_v1_0_2.png" width="400">
+
+Note: Do not change switches 4 thru 8 unless you are attaching a LED string different from the one provided with your Fireflies LED Controller.
  
 ### Setting the switches inside the control box
 #### Changing the alternative color for the toggle switch
