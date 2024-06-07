@@ -24,9 +24,12 @@ This guide describes the set up and use of your new Fireflies.
   * Flip the toggle switch to change between Firefly color yellow or white
 * Try out the rotary knob
   * Locate the rotating knob.  Turning the knob increases or decreased the brightness of the next fireflies that light up.
-* For the most realistic firefies set the switch to yellow and turn the brightness level all the way down.
-* Adjust the brightness level to your liking
+  * Adjust the brightness level to your liking
 * Spread out the LED string and enjoy your fireflies!
+### Tips
+* For the most realistic firefies set the switch to yellow and turn the brightness level all the way down.
+* When the fireflies are set to warm white instead of yellow, and you want them dim, consider setting them not all the way dim. If fully dimmed on warm white there is a red hue right before the firefly goes fully dim. This can be avoided by not fully dimming the warm white.
+* While the controller is designed and built to be water resistant, the socket where the USB-C cord plugs into the controller is somewhat exposed.  If used outside it is best to put something over the controller or apply some Gorilla Tape to protect the connection.
 <br>
 <br>
 
