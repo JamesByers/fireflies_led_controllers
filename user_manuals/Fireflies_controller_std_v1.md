@@ -50,4 +50,5 @@ By adjusting switches inside the control box you can change the following:
       * You can also use this to limit the number of LEDs lit in a longer string.  For example, if you have a 100 LED string or longer you can set it to 50.  Only the first 50 LEDs will be lit.  This can be useful if you want to cover a smaller area than you would with the full longer string.
 
 To change any of these advanced settings please see the [Advanced Features Guide](./v1_advanced_features.md).
+
 <img src="/assets/Fireflies_open_box_w_logo.png" width="500">
