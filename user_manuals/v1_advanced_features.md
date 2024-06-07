@@ -1,7 +1,8 @@
 # <img src="../assets/Firefly_basic_logo.png" width="64">  Advanced Features Guide
 ## Fireflies LED Controller Std v1
 <p align="center">
-<img src="../assets/Fireflies_std_v1_0_2.png" width="400">
+
+<img src="/assets/Fireflies_open_box_w_logo.png" width="500">
 </p>
 
 #### The Advanced settings are set using the red DIP switch on the circuit board inside the controller.
@@ -18,6 +19,8 @@ There are 8 individually numbered switches on the DIP switch.  There are three g
   3. Locate the red or black 8 position DIP switch
 
 Note: Do not change switches 4 thru 8 unless you are attaching a LED string different from the one provided with your Fireflies LED Controller.
+
+<img src="../assets/Fireflies_std_v1_0_2.png" width="500">
  
 ### Setting the switches inside the control box
 #### Changing the alternative color for the toggle switch
