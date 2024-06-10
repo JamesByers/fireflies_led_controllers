@@ -25,7 +25,7 @@ There are 8 individually numbered switches on the DIP switch.  There are three g
 **Note:** Do not change switches 4 thru 8 unless you are attaching a LED string different from the one provided with your Fireflies LED Controller.
 
 #### Changing the alternative color for the toggle switch
-Set switches numbered 1, 2, and 3 for the affect you want.  The possible switch settings are shown in the table below.
+Set switches numbered 1, 2, and 3 for the affect you want.  The possible switch settings are shown in the table below.  A switch is ON when it is set to the "up" position toward the word "ON" printed on the DIP switch.
 Changes in these switches will take affect immediately on the next firefly lit.
 | Affect | Sw 1  |  Sw 2 | Sw 3 |
 | :--- | :---: | :---: | :---: |
