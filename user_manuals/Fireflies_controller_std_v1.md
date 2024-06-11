@@ -32,7 +32,9 @@ This guide describes the set up and use of your new Fireflies.
 * When the fireflies are set to white instead of yellow, and you want them dim, consider setting them not all the way dim. If the white is fully dimmed there is a red hue right before the firefly goes out. This can be avoided by not fully dimming the warm white.
 * The QR code on the bottom of the controller box, and the one inside the box, point to this Quick Start Guide.
 
-* <img src="/assets/img_0201.jpg" width="250">   
+<p align="center">
+* <img src="/assets/img_0201.jpg" width="250"> 
+</p>
 <br>
 <br>
 
