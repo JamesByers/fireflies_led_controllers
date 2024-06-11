@@ -70,4 +70,4 @@ Changes in these switches will only take affect when the power is cycled by eith
 
 [Link to the Quick Start Guide](./Fireflies_controller_std_v1.md)
 
-[Return to website start page](../Readme.md)
+[Return to website start page](../README.md)
