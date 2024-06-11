@@ -4,6 +4,7 @@ This repository contains user information about the Fireflies LED Controllers
 <img src="assets/Fireflies_box_with _logo.jpg" width="500">
 <br>
 <img src="assets/20240608_155041.jpg" width="500">
+[Link to video](https://photos.google.com/u/1/photo/AF1QipPtS64D1vGxXBOGwaBDtKT2rBjq3wBRi1PVEBz-)
 
 ### User Manuals
 [Quick Start Guide - Fireflies LED controller V1](/user_manuals/Fireflies_controller_std_v1.md)
