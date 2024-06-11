@@ -39,7 +39,7 @@ This guide describes the set up and use of your new Fireflies.
 <br>
 
 ### Advanced settings
-<p align="center">
+<p align="left">
 <img src="../assets/Fireflies_std_v1_0_2.png" width="400">
 </p>
 
