@@ -55,4 +55,4 @@ To change any of these advanced settings please see the [Advanced Features Guide
 
 <img src="/assets/Fireflies_open_box_w_logo.png" width="500">
 
-**[Return to website start page](../README.md)**
+**[Return to start page](../README.md)**
