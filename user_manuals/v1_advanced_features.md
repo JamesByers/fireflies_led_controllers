@@ -53,9 +53,7 @@ Changes to these switches will only take affect when the power is cycled by eith
 
 #### Setting the color order
 If needed, set switches numbered 6, 7, and 8 to match the controller color order to the color order of a different LED string
-Changes in these switches will only take affect when the power is cycled by either:
-  1. Using the on/off push button switch to turn the power to the controller box off and then on again
-  2. *Or* pushing and releasing the Reset button on the RP2040 Zero microcontroller
+Changes in these switches will take affect immediately on the next firefly lit.
      
 | Affect | Sw 1  |  Sw 2 | Sw 3 |
 | :--- | :---: | :---: | :---: |
