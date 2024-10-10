@@ -54,7 +54,12 @@ Changes to these switches will only take affect when the power is cycled by eith
 #### Setting the color order
 If needed, set switches numbered 6, 7, and 8 to match the controller color order to the color order of a different LED string
 Changes in these switches will take affect immediately on the next firefly lit.
-     
+
+**Note** The led strings shipped with the v1 and v2 LED controllers commonly have color orders
+* Black wires: GRB
+* Green: GRB
+* Clear wires: *BRG*
+
 | Affect | Sw 6  |  Sw 7 | Sw 8 |
 | :--- | :---: | :---: | :---: |
 | RGB | Off | Off | Off |
@@ -65,11 +70,6 @@ Changes in these switches will take affect immediately on the next firefly lit.
 | BGR | On | Off | On |
 | BRG | On | On | Off |
 | BRG | On | On | On |
-
-**Note** The led strings shipped with the v1 and v2 LED controllers are these color orders
-* Black wires: GRB
-* Green: GRB
-* Clear wires: *BRG*
 
 [Link to the Quick Start Guide](./Fireflies_controller_std_v1.md)
 
