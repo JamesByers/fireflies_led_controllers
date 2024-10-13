@@ -10,7 +10,7 @@ Click image for video
 ### User Manuals
 If you Fireflies LED Controller has a rotary switch instead of a toggle switch you have a V2a controller
 The V2 controller differs from the Vi controller in that the V2 has a rotary switch with 7 effect choices instead of V1's 2 choices.
-The rotary knob choices are:
+*Rotary knob choices*
 1. Rotated all the way to the left - Yellow fireflies color
 2. Transitions through all hues
 3. Warm white
@@ -20,11 +20,11 @@ The rotary knob choices are:
 7. Green with occasional Red
 8. Rotated all the way to the right - Yellow fireflies
 
-V2 manual not available yet. But these V1 guides generally apply:
+V2 manuals are not created yet. But these V1 guides generally apply:
 [Quick Start Guide - Fireflies LED controller V1](/user_manuals/Fireflies_controller_std_v1.md)
 [Advanced Feature's Guide - Fireflies LED controller V1](user_manuals/v1_advanced_features.md)
 <br>
-If you Fireflies LED Controller has a toggle switch instead of a toggle switch you have a V1 controller
+If you Fireflies LED Controller has a toggle switch instead of a Rotary switch you have a V1 controller,
 [Quick Start Guide - Fireflies LED controller V1](/user_manuals/Fireflies_controller_std_v1.md)
 <br>
 [Advanced Feature's Guide - Fireflies LED controller V1](user_manuals/v1_advanced_features.md)
