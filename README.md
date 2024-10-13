@@ -28,7 +28,5 @@ V2 specific manuals are not available yet. But these V1 guides generally apply:
 * [Advanced Feature's Guide - Fireflies LED controller V1](user_manuals/v1_advanced_features.md)
 
 If you Fireflies LED Controller has a toggle switch instead of a Rotary switch you have a V1 controller
-* [Quick Start Guide - Fireflies LED controller V1](/user_manuals/Fireflies_controller_std_v1.md)
-* [Advanced Feature's Guide - Fireflies LED controller V1](user_manuals/v1_advanced_features.md)
 
 [<img src="/assets/Fireflies_std_vi_open_controller.jpg" width="500">](/user_manuals/Fireflies_controller_std_v1.md)
