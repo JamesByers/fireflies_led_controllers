@@ -29,4 +29,6 @@ V2 specific manuals are not available yet. But these V1 guides generally apply:
 
 If you Fireflies LED Controller has a toggle switch instead of a Rotary switch you have a V1 controller
 
+Hardware details and code - [The Fireflies Project](https://github.com/JamesByers/fireflies_project)
+
 [<img src="/assets/Fireflies_std_vi_open_controller.jpg" width="500">](/user_manuals/Fireflies_controller_std_v1.md)
