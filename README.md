@@ -9,7 +9,7 @@ Click image for video
 
 ### User Manuals
 
-#### V2 Manula
+#### V2 Manuals
 If you Fireflies LED Controller has a rotary switch instead of a you have a V2 controller.
 
 The V2 controller differs from the Vi controller in that the V2 has a rotary switch with 7 effect choices instead of V1's 2 choices.
