@@ -1,6 +1,6 @@
 # <img src="../assets/Firefly_basic_logo.png" width="64">  Quick Start Guide   
 
-## Fireflies Standard LED Controller v1  
+## Fireflies LED Controller v2  - With 8 position 
 
 Congratulations on your new Byers Built Fireflies LED Controller and light string!
 <br>
