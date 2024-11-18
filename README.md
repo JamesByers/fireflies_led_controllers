@@ -28,7 +28,7 @@ The V2 controller differs from the V1 controller in that the V2 has a rotary swi
 8. All LEDS on. Transitions through all hues.
 
 V2 specific manuals are not available yet. But these V1 guides generally apply:
-* [Quick Start Guide - Fireflies LED controller V1](user_manuals/Fireflies_controller_std_v1.md)
+* [Quick Start Guide - Fireflies LED controller V2](user_manuals/Fireflies_controller_std_v1.md)
 * This is a V1 manual bit it generally applloes to V2 advanced features
   * [Advanced Feature's Guide - Fireflies LED controller V1](user_manuals/v1_advanced_features.md)
 
