@@ -15,19 +15,26 @@ The V2 controller differs from the V1 controller in that the V2 has a rotary swi
 
 **Rotary knob choices**
 1. Rotated all the way to the left - Yellow fireflies color
-2. Transitions through all hues
-3. Warm white
-4. Orange with occasional purple
-5. Blue with a occasional green
-6. Green with a occasional blue
-7. Green with occasional Red
-8. Rotated all the way to the right - Yellow fireflies
+2. Warm white fireflies
+3. Orange with occasional purple fireflies
+4. Blue with a occasional green firefiles
+5. User selects hue for fireflies with left knob
+   * The Left Knob changes from a dimmer to selecting a hue for fireflies.
+   * The previous dimmer selection is used.
+6. Transitions firefliea through all hues
+7. All LEDs on. User selects hue with the left knob for all LEDs on at once.
+   * The left Knob changes from a dimmer to selecting a hue for fireflies.
+   * The previous dimmer selection is used.
+8. All LEDS on. Transitions through all hues.
 
 V2 specific manuals are not available yet. But these V1 guides generally apply:
-* [Quick Start Guide - Fireflies LED controller V1](/user_manuals/Fireflies_controller_std_v1.md)
-* [Advanced Feature's Guide - Fireflies LED controller V1](user_manuals/v1_advanced_features.md)
+* [Quick Start Guide - Fireflies LED controller V1](user_manuals/Fireflies_controller_std_v1.md)
+* This is a V1 manual bit it generally applloes to V2 advanced features
+  * [Advanced Feature's Guide - Fireflies LED controller V1](user_manuals/v1_advanced_features.md)
 
 If you Fireflies LED Controller has a toggle switch instead of a Rotary switch you have a V1 controller.
+* [Quick Start Guide - Fireflies LED controller V1](user_manuals/Fireflies_controller_std_v1_updated.md)
+* [Advanced Feature's Guide - Fireflies LED controller V1](user_manuals/v1_advanced_features.md)
 
 ### Additional Information on this Project
 Hardware details and code - [The Fireflies Project](https://github.com/JamesByers/fireflies_project)
