@@ -24,18 +24,18 @@ This page is the Quick Start Guide for the v2 Firefly LED controllers.  V1 conto
 * Try out the eight position rotary switch
   * Locate the eight position rotary switch on the opposite end of the control box.  This is the knob on the right.
   * Rotate the eight position rotary switch change between these effects
-    1. Rotated all the way to the left - Yellow fireflies color
-    2. Warm white fireflies
-    3. Orange with occasional purple fireflies
-    4. Blue with a occasional green firefiles
-    5. User selects hue for fireflies with left knob
+    * Rotated all the way to the left - Yellow fireflies color
+    * Warm white fireflies
+    * Orange with occasional purple fireflies
+       Blue with a occasional green firefiles
+    * User selects hue for fireflies with left knob
        * The Left Knob changes from a dimmer to selecting a hue for fireflies.
        * The previous dimmer selection is used.
-    6. Transitions fireflies through all hues
-    7. *All LEDs on*. User selects hue with the left knob for all LEDs on at once.
+    * Transitions fireflies through all hues
+    * *All LEDs on*. User selects hue with the left knob for all LEDs on at once.
        * The left Knob changes from a dimmer to selecting a hue for fireflies.
        * The previous dimmer selection is used.
-    8. *All LEDS on*. Transitions through all hues.
+    * *All LEDS on*. Transitions through all hues.
 * Try out the rotary dimmer/hue knob on the left 
   * Locate the rotating knob to the left of the rotary switch knob.
    * When a effect is a fireflies type, turning the knob increases or decreased the brightness of the next fireflies that light up.  Set the brighness to your liking.  It is recommended that for the most realistic yellow fireflies you rotate the brightness knob all the way to the left to be the dimmest.  But for other settings this is often to low and caused odd color artifacts as LEDS go all the way to off.  For any setting other than yellow fireflies I recommend that the brightness be set to your preference betweena bit brighter than minimal all the way up to full brightness.
