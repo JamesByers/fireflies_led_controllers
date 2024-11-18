@@ -9,7 +9,10 @@ This guide describes the set up and use of your new Fireflies.
 
 <img src="/assets/Fireflies_box_with _logo.jpg" width="500">
 
-This page is the Quick Start Guide for the v2 Firefly LED controllers.  V1 contollers provide an 8 position rotary switch rather than the two position toggel switch the v1 controllers provide.  If you are looking for the v1 user manual please find it [here][[Quick Start Guide - Fireflies LED controller V1](user_manuals/Fireflies_controller_std_v1_updated.md)]
+This page is the Quick Start Guide for the v2 Firefly LED controllers.
+
+Note: V2 contollers provide an 8 position rotary switch rather than the two position toggel switch the v1 controllers provide.
+* If you are looking for the v1 user manual please find it [here][[Quick Start Guide - Fireflies LED controller V1](user_manuals/Fireflies_controller_std_v1_updated.md)]
 
 ### Connect and test the light string
 1. Plug the USB-C charger into a 120V wall outlet.
