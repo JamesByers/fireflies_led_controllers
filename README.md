@@ -1,7 +1,7 @@
 # <img src="/assets/Firefly_basic_logo.png" width="64"> Byers Built Fireflies LED Controllers - Manuals
 This repository contains manuals for the Fireflies LED Controllers
 
-<img src="assets/Fireflies_box_with _logo.jpg" width="500">
+<img src="/assets/Fireflies_2_1_0_box_closed.png" width="500">
 <br>
 Click image for video
 
