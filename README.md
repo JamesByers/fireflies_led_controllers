@@ -5,7 +5,7 @@ This repository contains manuals for the Fireflies LED Controllers
 <br>
 Click image for video
 
-[<img src="/assets/Fireflies_2_1_0_box_closed.png" width="500">](https://photos.app.goo.gl/UaPuwaba9bqjVWHB6)
+[<img src="/assets/Fireflies_2_1_0_box_closed.png" width="500">](/assets/Fireflies_2_1_0_box_closed.png)
 
 ### User Manuals
 
