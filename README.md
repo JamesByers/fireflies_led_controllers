@@ -24,4 +24,4 @@ If you Fireflies LED Controller has a toggle switch instead of a Rotary switch y
 ### Additional Information on this Project
 Hardware details and code - [The Fireflies Project](https://github.com/JamesByers/fireflies_project)
 
-[<img src="/assets/Fireflies_2_1_0_open_box_bottom.png" width="500>] (https://github.com/JamesByers/fireflies_led_controllers/blob/main/assets/Fireflies_2_1_0_open_box_bottom.png)
+[<img src="assets/Fireflies_2_1_0_open_box_bottom.png" width="500>] (https://github.com/JamesByers/fireflies_led_controllers/blob/main/assets/Fireflies_2_1_0_open_box_bottom.png)
