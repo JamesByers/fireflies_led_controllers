@@ -11,7 +11,7 @@ This guide describes the set up and use of your new Fireflies.
 <img src="/assets/Fireflies_2_1_0_box_open.png" width="500">
 <br>
 
-This page is the Quick Start Guide for the v2 Firefly LED controllers.
+### This page is the Quick Start Guide for the v2 Firefly LED controllers.
 
 Note: V2 contollers provide an 8 position rotary switch rather than the two position toggle switch the v1 controllers provide.
 * If you are looking for the v1 user manual please find it here: [Quick Start Guide - Fireflies LED controller V1](user_manuals/Fireflies_controller_std_v1_updated.md)
