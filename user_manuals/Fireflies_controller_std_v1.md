@@ -64,7 +64,7 @@ Note: V2 contollers provide an 8 position rotary switch rather than the two posi
 
 ### Advanced settings
 <p align="left">
-<img src="../assets/Fireflies_std_v1_0_2.png" width="400">
+<img src="../assets/Fireflies_hue_2_2_0s.png" width="400">
 </p>
 
 By adjusting switches inside the control box you can change the following:
