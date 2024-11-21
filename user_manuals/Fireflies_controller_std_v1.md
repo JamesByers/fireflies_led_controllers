@@ -1,7 +1,7 @@
 # <img src="../assets/Firefly_basic_logo.png" width="64">  Quick Start Guide   
 
 ## Fireflies LED Controller v2
-### With v2 you can now select from eight effects including two "all on" effects!
+### With v2 you can now select from eight effects including two "all on" effects
 
 Congratulations on your new Byers Built Fireflies LED Controller and light string!
 <br>
