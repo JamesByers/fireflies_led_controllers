@@ -80,4 +80,7 @@ To change any of these advanced settings please see the [Advanced Features Guide
 
 <img src="/assets/Fireflies_2_1_0_box_open.png" width="500">
 
+### Additional Information on this Project
+Hardware details and code - [The Fireflies Project](https://github.com/JamesByers/fireflies_project)
+
 **[Return to start page](../README.md)**
