@@ -10,7 +10,7 @@ Click image for video
 #### V2 Manuals
 <img src="/assets/Fireflies_2_1_0_box_open.png" width="500">
 <br>
-If you Fireflies LED Controller has a rotary switch instead of a you have a V2 controller.
+If you Fireflies LED Controller has a rotary switch you have a V2 controller.
 The V2 controller differs from the V1 controller in that the V2 has a rotary switch with 7 effect choices instead of V1's 2 choices.
 
 * [Quick Start Guide - Fireflies LED controller V2](user_manuals/Fireflies_controller_std_v1.md)
