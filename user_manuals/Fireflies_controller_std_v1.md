@@ -1,4 +1,4 @@
-# <img src="../assets/Firefly_basic_logo.png" width="64">  Quick Start Guide   
+# <img src="../assets/Fireflies_logo_2_0.png" width="64">  Quick Start Guide   
 
 ## Fireflies LED Controller v2
 ### With v2 you can now select from eight effects including two "all on" effects
