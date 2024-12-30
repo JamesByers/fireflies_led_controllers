@@ -6,6 +6,7 @@ Click image for video
 [<img src="/assets/20240608_155041.jpg" width="500">](https://photos.app.goo.gl/UaPuwaba9bqjVWHB6)
 
 ### Rotary knob choices
+
 1. Rotated all the way to the left - Yellow fireflies color
 2. Warm white fireflies
 3. Orange with occasional purple fireflies
