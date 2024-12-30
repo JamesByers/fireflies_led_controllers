@@ -10,7 +10,7 @@ Click image for video
 If you Fireflies LED Controller has a rotary switch you have a V2 controller.
 The V2 controller differs from the V1 controller in that the V2 has a rotary switch with 8 effect choices instead of V1's 2 choices.
 
-**Rotary knob effect selections for v2.2**
+**Rotary switch selections (right knob) for v2.2**
 1. Rotated all the way to the left - Yellow fireflies color
 2. Warm white fireflies
 3. Orange with occasional purple fireflies
