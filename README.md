@@ -11,12 +11,12 @@ Click image for video
 3. Orange with occasional purple fireflies
 4. Blue with a occasional green firefiles
 5. User selects hue for fireflies with left knob
-  1.1. The Left Knob changes from a dimmer to selecting a hue for fireflies.
-  1.1.  The previous dimmer selection is used.
+  * The Left Knob changes from a dimmer to selecting a hue for fireflies.
+  *  The previous dimmer selection is used.
 6. Transitions fireflies through all hues
 7. All LEDs on. User selects hue with the left knob for all LEDs on at once.
-  7.1. The left Knob changes from a dimmer to selecting a hue for fireflies.
-  7.2. The previous dimmer selection is used.
+  * The left Knob changes from a dimmer to selecting a hue for fireflies.
+  * The previous dimmer selection is used.
 8. All LEDS on. Transitions through all hues.
 
 ### User Manuals
