@@ -16,7 +16,7 @@ The V2 controller differs from the V1 controller in that the V2 has a rotary swi
 3. Orange with occasional purple fireflies
 4. Blue with a occasional green firefiles
 5. User selects hue for fireflies with left knob
-    1. The Left Knob changes from a dimmer to selecting a hue for fireflies.
+    1. The left Knob changes from a dimmer to selecting a hue for fireflies.
     2. The previous dimmer selection is used.
 6. Transitions fireflies through all hues
 7. All LEDs on. User selects hue with the left knob for all LEDs on at once.
