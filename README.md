@@ -6,6 +6,10 @@ Click image for video
 [<img src="/assets/20240608_155041.jpg" width="500">](https://photos.app.goo.gl/UaPuwaba9bqjVWHB6)
 
 ### User Manuals
+#### V2 Manuals
+If you Fireflies LED Controller has a rotary switch you have a V2 controller.
+The V2 controller differs from the V1 controller in that the V2 has a rotary switch with 8 effect choices instead of V1's 2 choices.
+
 **Rotary knob effect selections for v2.2**
 1. Rotated all the way to the left - Yellow fireflies color
 2. Warm white fireflies
@@ -19,12 +23,9 @@ Click image for video
     1. The left Knob changes from a dimmer to selecting a hue for fireflies.
     2. The previous dimmer selection is used.
 8. All LEDS on. Transitions through all hues.
-   
-#### V2 Manuals
+
 <img src="/assets/Fireflies_2_1_0_box_open.png" width="500">
 <br>
-If you Fireflies LED Controller has a rotary switch you have a V2 controller.
-The V2 controller differs from the V1 controller in that the V2 has a rotary switch with 8 effect choices instead of V1's 2 choices.
 
 * [Quick Start Guide - Fireflies LED controller V2](user_manuals/Fireflies_controller_std_v1.md)
 * This is a V1 manual but it generally applies to V2 advanced features
