@@ -5,8 +5,22 @@ Click image for video
 
 [<img src="/assets/20240608_155041.jpg" width="500">](https://photos.app.goo.gl/UaPuwaba9bqjVWHB6)
 
-### Rotary knob choices
+**v2.2**
+### Rotary knob effect selections
+1. Rotated all the way to the left - Yellow fireflies color
+2. Warm white fireflies
+3. Orange with occasional purple fireflies
+4. Blue with a occasional green firefiles
+5. User selects hue for fireflies with left knob
+    1. The Left Knob changes from a dimmer to selecting a hue for fireflies.
+    2. The previous dimmer selection is used.
+6. Transitions fireflies through all hues
+7. All LEDs on. User selects hue with the left knob for all LEDs on at once.
+    1. The left Knob changes from a dimmer to selecting a hue for fireflies.
+    2. The previous dimmer selection is used.
+8. All LEDS on. Transitions through all hues.
 
+**v2.1**
 1. Rotated all the way to the left - Yellow fireflies color
 2. Warm white fireflies
 3. Orange with occasional purple fireflies
